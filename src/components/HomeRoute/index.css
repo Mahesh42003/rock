@@ -1,0 +1,25 @@
+.Home-displaying {
+  display: flex;
+  flex-direction: column;
+}
+
+.Home-background-image {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/nxt-watch-banner-bg.png');
+  background-size: cover;
+  width: 100%;
+  height: 30vh;
+  margin-top: 100px;
+  margin-left: 150px;
+}
+
+.closing-background-image {
+  display: flex;
+  justify-content: space-between;
+}
+
+.margin-left-bottom-image {
+  margin-left: 350px;
+}
+.displaying {
+  display: flex;
+}

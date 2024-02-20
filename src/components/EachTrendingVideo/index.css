@@ -1,0 +1,17 @@
+.trending-image-size {
+  height: 150px;
+  width: 30%;
+  margin-top: 20px;
+}
+
+.list-style-type-trending {
+  list-style-type: none;
+}
+
+.trending-displaying {
+  display: flex;
+}
+
+.margin-left-trending {
+  margin-left: 20px;
+}

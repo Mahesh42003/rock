@@ -1,0 +1,13 @@
+.flex-boxing-react-player {
+  display: flex;
+  justify-content: space-between;
+}
+
+.like-button-styling {
+  background-color: transparent;
+  border: none;
+}
+
+.profile-image {
+  height: 50px;
+}

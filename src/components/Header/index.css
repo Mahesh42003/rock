@@ -1,0 +1,47 @@
+.image-header-size {
+  height: 40px;
+}
+
+.Header-flexboxing {
+  display: flex;
+  justify-content: space-between;
+}
+
+.profile-size {
+  height: 50px;
+}
+
+.Header-margin-top {
+  margin-top: 10px;
+}
+
+.Log-out-button-styling {
+  height: 32px;
+  width: 100px;
+  background-color: transparent;
+  border-color: #4f46e5;
+  border-width: 1px;
+  margin-left: 30px;
+  margin-right: 20px;
+}
+.Each-one-displaying {
+  display: flex;
+  justify-content: space-between;
+}
+
+.home-image {
+  margin-top: 10px;
+}
+
+.home-paragraph {
+  margin-left: 14px;
+}
+
+.Header-1 {
+  background-color: transparent;
+  border: none;
+}
+
+.Home-image-height {
+  height: 50px;
+}

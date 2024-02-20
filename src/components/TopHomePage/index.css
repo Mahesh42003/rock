@@ -1,0 +1,28 @@
+.cross-background {
+  background-color: transparent;
+  border: none;
+}
+
+.top-margin {
+  margin-top: 140px;
+}
+
+.searching {
+  width: 20%;
+  height: 30px;
+}
+
+.button-searching {
+  height: 30px;
+  width: 5%;
+}
+.unordered-bottom-data {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.search-image-height {
+  width: 30%;
+}

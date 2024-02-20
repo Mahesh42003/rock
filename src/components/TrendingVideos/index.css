@@ -1,0 +1,20 @@
+.trending-button-styling {
+  background-color: transparent;
+  border: none;
+  margin: 20px;
+  margin-top: 30px;
+}
+
+.trend-flexing {
+  display: flex;
+}
+
+.heading-trending {
+  margin-left: 20px;
+}
+
+.right-background-automation {
+  background-color: black;
+  height: auto;
+  width: 100%;
+}

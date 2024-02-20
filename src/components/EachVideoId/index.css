@@ -1,0 +1,14 @@
+.left-margin {
+  margin: 30px;
+  margin-left: 100px;
+}
+
+.right-background {
+  background-color: #0f0f0f;
+  height: 150vh;
+  width: 100%;
+}
+
+.title {
+  color: aliceblue;
+}
